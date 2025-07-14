@@ -1,3 +1,4 @@
 # my_first_repo
 SANGDON KIM 
+JEONGMIN OH
 YUNSEO OH
